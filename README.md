@@ -256,18 +256,6 @@ Daily coding assignments and practice work organized by days.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshSingh41&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshSingh41&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
